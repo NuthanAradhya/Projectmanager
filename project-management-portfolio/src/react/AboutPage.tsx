@@ -572,7 +572,7 @@ const AboutPage: React.FC<AboutPageProps> = ({ className }) => {
             { icon: "📧", text: "Email", href: "mailto:aradhya.in.co@gmail.com" },
             { icon: "🖌️", text: "UX Portfolio", href: "https://nuthan-in.web.app" },
             { icon: "in", text: "LinkedIn", href: "https://www.linkedin.com/in/nuthanaradhyatj/" },
-            { icon: "📄", text: "Résumé", href: "/resume.pdf" },
+            { icon: "📄", text: "Résumé", href: "https://drive.google.com/file/d/1wQM5OpuVY9jaV0XRebxGR2Ruc0OeR0OL/view?usp=sharing" },
             { icon: "🐱", text: "Github", href: "https://github.com/NuthanAradhya" }
           ].map((link, index, array) => (
             <a 
